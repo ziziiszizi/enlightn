@@ -39,8 +39,8 @@
         "ext-json": "*",
         "enlightn/security-checker": "^1.1|^2.0",
         "guzzlehttp/guzzle": "^7.0",
-        "larastan/larastan": "^2.0",
-        "laravel/framework": "^9.0|^10.0|^11.0",
+        "larastan/larastan": "^3.0",
+        "laravel/framework": "^9.0|^10.0|^11.0|^12.0|^13.0",
         "nikic/php-parser": "^4.0|^5.0",
         "phpstan/phpstan": ">=1.10.48",
         "phpstan/phpstan-deprecation-rules": "^1.1",
@@ -51,8 +51,8 @@
         "brianium/paratest": "^6.1|^7.0",
         "friendsofphp/php-cs-fixer": "^2.18|^3.0",
         "mockery/mockery": "^1.3",
-        "orchestra/testbench": "^7.0|^8.0|^9.0",
-        "phpunit/phpunit": "^9.0|^10.0",
+        "orchestra/testbench": "^7.0|^8.0|^9.0|^10.0|^11.0",
+        "phpunit/phpunit": "^9.0|^10.0|^11.0|^12.0",
         "predis/predis": "*"
     },
     "autoload": {
